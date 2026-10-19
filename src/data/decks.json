@@ -1,0 +1,77 @@
+[
+  {
+    "id": "math",
+    "title": "Math",
+    "accent": "#4F5BD5",
+    "cards": [
+      { "id": "math-1", "front": "What is 7 × 8?", "back": "56" },
+      { "id": "math-2", "front": "What is the square root of 144?", "back": "12" },
+      { "id": "math-3", "front": "What is 15% of 200?", "back": "30" },
+      { "id": "math-4", "front": "How many degrees are in a triangle?", "back": "180°" },
+      { "id": "math-5", "front": "What is 2 to the power of 10?", "back": "1024" },
+      { "id": "math-6", "front": "What is the area of a circle?", "back": "π × r²" },
+      { "id": "math-7", "front": "What is 3/4 as a decimal?", "back": "0.75" },
+      { "id": "math-8", "front": "Is 91 a prime number?", "back": "No — 91 = 7 × 13" },
+      { "id": "math-9", "front": "What is the Pythagorean theorem?", "back": "a² + b² = c²" },
+      { "id": "math-10", "front": "What is 9 × 12?", "back": "108" }
+    ]
+  },
+  {
+    "id": "science",
+    "title": "Science",
+    "accent": "#1F9D63",
+    "cards": [
+      { "id": "sci-1", "front": "What is the chemical symbol for gold?", "back": "Au" },
+      { "id": "sci-2", "front": "What planet is known as the Red Planet?", "back": "Mars" },
+      { "id": "sci-3", "front": "What gas do plants absorb from the air?", "back": "Carbon dioxide (CO₂)" },
+      { "id": "sci-4", "front": "What is the powerhouse of the cell?", "back": "The mitochondria" },
+      { "id": "sci-5", "front": "At what temperature does water boil at sea level?", "back": "100 °C (212 °F)" },
+      { "id": "sci-6", "front": "What force keeps us on the ground?", "back": "Gravity" },
+      { "id": "sci-7", "front": "How many bones are in the adult human body?", "back": "206" },
+      { "id": "sci-8", "front": "What is H₂O?", "back": "Water" },
+      { "id": "sci-9", "front": "What is the speed of light (approx.)?", "back": "300,000 km/s" },
+      { "id": "sci-10", "front": "What is the largest planet in our solar system?", "back": "Jupiter" },
+      { "id": "sci-11", "front": "What part of the plant does photosynthesis?", "back": "The leaves (chloroplasts)" },
+      { "id": "sci-12", "front": "What is the hardest natural substance?", "back": "Diamond" }
+    ]
+  },
+  {
+    "id": "english",
+    "title": "English",
+    "accent": "#D9822B",
+    "cards": [
+      { "id": "eng-1", "front": "Synonym of \"happy\"", "back": "Joyful" },
+      { "id": "eng-2", "front": "Antonym of \"ancient\"", "back": "Modern" },
+      { "id": "eng-3", "front": "Past tense of \"go\"", "back": "Went" },
+      { "id": "eng-4", "front": "Plural of \"mouse\"", "back": "Mice" },
+      { "id": "eng-5", "front": "What does \"benevolent\" mean?", "back": "Kind and generous" },
+      { "id": "eng-6", "front": "What is a noun?", "back": "A word for a person, place, thing or idea" },
+      { "id": "eng-7", "front": "Past participle of \"write\"", "back": "Written" },
+      { "id": "eng-8", "front": "Synonym of \"rapid\"", "back": "Fast" },
+      { "id": "eng-9", "front": "What does \"reluctant\" mean?", "back": "Unwilling or hesitant" },
+      { "id": "eng-10", "front": "Plural of \"child\"", "back": "Children" }
+    ]
+  },
+  {
+    "id": "arabic",
+    "title": "العربية",
+    "accent": "#B4458A",
+    "rtl": true,
+    "cards": [
+      { "id": "ar-1", "front": "ما عاصمة مصر؟", "back": "القاهرة" },
+      { "id": "ar-2", "front": "ما جمع كلمة «كتاب»؟", "back": "كُتُب" },
+      { "id": "ar-3", "front": "ما عكس كلمة «طويل»؟", "back": "قصير" },
+      { "id": "ar-4", "front": "كم عدد أيام الأسبوع؟", "back": "سبعة أيام" },
+      { "id": "ar-5", "front": "ما مرادف كلمة «سعيد»؟", "back": "فَرِح" },
+      { "id": "ar-6", "front": "ما أكبر محيط في العالم؟", "back": "المحيط الهادئ" },
+      { "id": "ar-7", "front": "كم عدد حروف اللغة العربية؟", "back": "ثمانية وعشرون حرفًا" },
+      { "id": "ar-8", "front": "ما عكس كلمة «بارد»؟", "back": "حار" }
+    ]
+  },
+  {
+    "id": "history",
+    "title": "History",
+    "accent": "#7A6F5D",
+    "cards": []
+  }
+]
